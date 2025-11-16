@@ -1,35 +1,41 @@
 # Amazon-sales-Dashboard
 Designed an interactive dashboard to analyze sales, profit, and order trends across months,  categories, and regions. Performed data cleaning, transformation, and modeling using Excel functions and DAX  formulas to ensure accuracy. Created KPIs and visual reports to track performance, top products, and regional growth  insights.
 This project involved analyzing a comprehensive dataset containing 5,901 sales records from Amazon’s U.S. retail operations. The dataset captured key transactional details such as order information, customer demographics, shipping methods, product categories, financial metrics, and payment patterns. Below is a structured summary of the insights derived from the analysis:
-1. Overall Business Performance
 
-Total Sales: ₹1.56M+
+🧾 Project Overview
 
-Total Profit: ₹175.26K
+Designed an interactive Power BI/Excel dashboard to analyze sales, profit, orders, product performance, customer behavior, and regional patterns.
+The dataset contained 5,901 sales records from Amazon’s U.S. retail operations covering orders, customers, payments, shipping, and product details.
 
-Total Orders: 5,901
+📈 Overall Business Performance
 
-Total Products Sold: 5,901
-→ The balance of sales and profit indicates steady business growth with consistent order volume.
+💰 Total Sales: ₹1.56M+
 
-2. Sales & Profit Trends Over Time
+📦 Total Orders: 5,901
 
-Daily order data shows stable sales activity across months.
+🧮 Total Products Sold: 5,901
 
-Profit and sales spikes align with specific order dates, indicating periodic high-demand periods.
+📈 Total Profit: ₹175.26K
+➡️ Indicates consistent business growth with stable order volume.
 
-No drastic drops, reflecting a healthy and predictable sales cycle.
+📅 Sales & Profit Trends Over Time
 
-3. Top Performing Product Segments
-Top Profitable Sub-Categories
+📊 Daily orders show steady sales across months.
 
-Copiers generate the highest profit, contributing the largest share.
+🔼 Noticeable spikes in sales and profit on peak-demand days.
 
-Machines follow with moderate profitability.
+🟢 No major drops → predictable and healthy sales cycle.
 
-Binders contribute smaller but consistent profits.
+🏆 Top Performing Product Segments
+💹 Top Profitable Sub-Categories
 
-Top 5 Selling Products (by Sales Value)
+🥇 Copiers – highest profit generator
+
+🥈 Machines – moderate profit
+
+🥉 Binders – consistent profit contributor
+
+🛒 Top 5 Selling Product Groups
 
 3D Systems Products
 
@@ -38,61 +44,59 @@ Canon Imaging Supplies
 Hewlett Packard Printers
 
 GBC Document Products
+➡️ These drive major revenue and customer demand.
 
-These products are the driving force behind total revenue, showing strong customer demand.
+👥 Customer & Order Behavior
+🔄 Return Status
 
-4. Customer & Order Behavior
-Return Status
+✅ Accepted Orders: 95.14%
 
-95.14% of orders are accepted, indicating strong customer satisfaction.
+🔁 Returned Orders: 4.86%
+➡️ Shows strong product quality & customer satisfaction.
 
-Only 4.86% returned, reflecting low product return rates and good quality control.
+💳 Payment Mode Preferences
 
-5. Payment Mode Preferences
+🟢 COD: 41.57% (Most preferred)
 
-COD (41.57%) is the most preferred payment option.
+🔵 Online Payments: 36.76%
 
-Cards (21.7%) and Online payments (36.76%) follow.
-→ COD dominance suggests a trust-building strategy for customers who prefer post-delivery payment.
+🟠 Cards: 21.7%
+➡️ COD dominance indicates trust-building behavior.
 
-6. Shipping Mode Insights
+🚚 Shipping Mode Insights
 
-Standard Class (58.27%) is the most widely used shipping method.
+📦 Standard Class: 58.27% (Most used)
 
-Second Class (20.02%), First Class (15.52%), and Same Day (6.19%) make the rest.
-→ Customers prefer reliable and economical shipping options over faster premium delivery.
+📮 Second Class: 20.02%
 
-7. Regional & City-Wise Opportunities
+🚀 First Class: 15.52%
 
-Dashboard filters indicate potential to analyze:
+⚡ Same Day: 6.19%
+➡️ Customers prefer cost-effective, reliable shipping.
 
-Regional demand disparities
+🌍 Regional & City-Wise Highlights
 
-High-sales cities
+Dashboard enables analysis of:
 
-Market penetration opportunities
+📍 Regional demand differences
 
-This allows businesses to target high-performing regions more strategically.
+🏙️ High-sales cities
 
-📌 Summary
+🎯 Market penetration opportunities
+➡️ Supports data-driven regional strategy.
 
-The Amazon E-Commerce dashboard highlights strong sales, impressive customer satisfaction, and clear high-performing product categories. With minimal returns and stable revenue streams, the platform demonstrates a healthy operational performance and strong market trust. Focusing further on high-profit sub-categories and customer-preferred payment/shipping modes can accelerate growth even more.
+📝 Key Findings
 
+📊 Average Sale: $230 | Max Sale: $9,099
 
+💵 Average Profit: $28 | Max Profit: $8,399
 
+🚚 Top Shipping Method: Standard Class
 
-Key Findings
+👤 Customer Segments: Consumer (largest) > Corporate > Home Office
 
-Average Sales: $230 | Max Sale: $9,099
+🛍️ Product Categories: Furniture, Office Supplies, Technology
 
-Average Profit: $28 | Max Profit: $8,399
+🔄 Return Rate: 4.86%
 
-Top Shipping Method: Standard Class
-
-Customer Segments: Consumer (largest), Corporate, Home Office
-
-Product Categories: Furniture, Office Supplies, Technology
-
-Return Rate: 4.86% (majority of orders not returned)
-
-Most Used Payment Mode: Cash on Delivery (COD)
+💳 Most Used Payment Mode: COD
